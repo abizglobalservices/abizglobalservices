@@ -1,16 +1,15 @@
-## Hi there 👋
-
-<!--
-**abizglobalservices/abizglobalservices** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Abiz Global Services
+Grow Your Business With Digital Strategy
+We deliver problem-solving solutions for our clients and provide finest finishing products for the present and upcoming future.
+## Services
+- Web Development
+- Brand identity design
+- AI and automation
+- SEO and growth
+- Software and app development
+- Social media marketing
+## About
+Co-Founder & CEO: Sardar Wafa Abbas. CTO: Ibrar ul Hassan. Rated Great on Trustpilot.
+## Contact
+- Website: https://abizglobalservices.com/
+- Instagram: https://www.instagram.com/sardar_wafa_abbas/
